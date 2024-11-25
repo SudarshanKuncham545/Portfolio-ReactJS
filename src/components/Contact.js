@@ -9,8 +9,8 @@ function Contact() {
         <p>Phone: +91 9133437637</p>
         <p>
           LinkedIn:{" "}
-          <a href="https://www.linkedin.com/in/sudarshan-koocham5566/" target="_blank" rel="noreferrer">
-            Sudarshan
+          <a href="https://www.linkedin.com/in/sudarshan-koocham5566/">
+            linkedin.com/in/Sudarshan
           </a>
         </p>
         <p>
