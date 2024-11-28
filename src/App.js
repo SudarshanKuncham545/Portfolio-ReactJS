@@ -13,9 +13,6 @@ function App() {
         <Projects />
         <Contact />
       </main>
-      <footer className="text-center py-4">
-        <p>© 2024 Sudarshan. All rights reserved.</p>
-      </footer>
     </>
   );
 }
