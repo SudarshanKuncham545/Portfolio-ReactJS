@@ -9,7 +9,9 @@ function Projects() {
           <div className="col-md-4">
             <div className="card">
               <div className="card-body">
-                <h5 className="card-title">Nxt Trenz(Ecommerce Clone- Flipkart)</h5>
+                <h5 className="card-title">
+                  Nxt Trenz{" "}
+                  <a href="https://sudhanxttrendz.ccbp.tech/">(NxtTrenz Project Link)</a></h5>
                 <p className="card-text"><b>Description of Project: </b><li>Developed a cutting-edge e-commerce platform inspired by Amazon and Flipkart.</li>
                     <li>Built pages for Login, Products and Product details with React Router, React components, form inputs, and event handlers.</li>
                     <li>Enabled secure authentication and autherization with JWT tokens and REST API class.</li>
@@ -20,7 +22,9 @@ function Projects() {
           <div className="col-md-4">
             <div className="card">
               <div className="card-body">
-                <h5 className="card-title">Emoji Game</h5>
+                <h5 className="card-title">
+                  Emoji Game{" "}
+                  <a href="https://sudhaemojigame.ccbp.tech/">(EmojiGame Link)</a></h5>
                 <p className="card-text"><b>Description of Project: </b>
                 <li>Designed a fun Challenging memory game with randomized emoji clicks.</li>
                 <li>Utilized React components, props, conditional rendering, and state updates to create dynamic gameplay.</li>
@@ -33,7 +37,11 @@ function Projects() {
           <div className="col-md-4">
             <div className="card">
               <div className="card-body">
-                <h5 className="card-title">Todos Application</h5>
+                <h5 className="card-title">
+                  Todos App{" "}
+                  <a href="https://todosapp.ccbp.tech/">
+                  (TodosProject Link)</a>
+                  </h5>
                 <p className="card-text"><b>Description of Project:</b><li>
                     a robust task tracking system with CRUD capabilities, crafted to simplify task management.</li>
                     <li>Designed with HTML, CSS and Bootstrap to ensure a user-friendly interface for managing tasks.</li>
