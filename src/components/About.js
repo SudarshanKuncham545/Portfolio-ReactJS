@@ -13,7 +13,7 @@ function About() {
         <h3>Technnical Skills</h3>
         <p>
           <p><b>Frontend: </b>HTML,CSS,Javascript,Express.js,Node.js,React.js</p>
-          <p><b>Backend: </b>Python</p>
+          <p><b>Backend: </b>Python, Java</p>
           <p><b>Databases: </b>MONGODB, SQLITE, SQL Server</p>
           <p><b>Version Control: </b>Git/Github</p>
         </p>
